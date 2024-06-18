@@ -1,0 +1,10 @@
+/* Add your CSS here, including styles for the table */
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 8px;
+    text-align: left;
+  }
+  
